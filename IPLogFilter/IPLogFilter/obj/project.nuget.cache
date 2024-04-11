@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WNSbP3gIS+XFPpDL3i1n8pEQahr4V/e6l5/HTQPTrtMzCYH6KuNun+fh6q4+Fdr8BZPn3P/X0emgTz7n5VzJWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\IpLogFilter\\IPLogFilter\\IPLogFilter\\IPLogFilter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hors1T\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

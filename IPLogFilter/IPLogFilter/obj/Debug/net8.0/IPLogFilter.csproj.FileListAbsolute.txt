@@ -1,0 +1,17 @@
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\bin\Debug\net8.0\IPLogFilter.exe
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\bin\Debug\net8.0\IPLogFilter.deps.json
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\bin\Debug\net8.0\IPLogFilter.runtimeconfig.json
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\bin\Debug\net8.0\IPLogFilter.dll
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\bin\Debug\net8.0\IPLogFilter.pdb
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\bin\Debug\net8.0\CommandLine.dll
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\IPLogFilter.csproj.AssemblyReference.cache
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\IPLogFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\IPLogFilter.AssemblyInfoInputs.cache
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\IPLogFilter.AssemblyInfo.cs
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\IPLogFilter.csproj.CoreCompileInputs.cache
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\IPLogFil.B8D284BD.Up2Date
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\IPLogFilter.dll
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\refint\IPLogFilter.dll
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\IPLogFilter.pdb
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\IPLogFilter.genruntimeconfig.cache
+D:\Project\RiderProject\IPLogFilter\IPLogFilter\obj\Debug\net8.0\ref\IPLogFilter.dll
